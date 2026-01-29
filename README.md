@@ -2,7 +2,7 @@
 ## Demo 🎬
 ![Project Demo](/public/awarded-website-gif.gif)
 
-- [Live-Link](https://saurabh-git-hub.github.io/LoadingPage-Animation/)
+- [Live-Link](https://awarded-website-three.vercel.app/)
 
 A modern, interactive award-winning website showcasing stunning animations, smooth transitions, anda a captivating user experience. This project combines cutting-edge web technologies with beautiful design to create an engaging landing page with rich multimedia content.
 
